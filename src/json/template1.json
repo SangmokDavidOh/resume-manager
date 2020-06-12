@@ -1,0 +1,522 @@
+{
+    "full_name": "Oh Sangmok",
+    "position": "software engineer",
+    "current_address": "Tokyo, Japan",
+    "phone": "080-7832-8668",
+    "email": "sangmokdavidoh@gmail.com",
+    "githubs": [
+        {
+            "key": 1,
+            "href": "https: //github.com/SangmokDavidOh"
+        }
+    ],
+    "homepages": [
+        {
+            "key": 342904329,
+            "title": "Resume Generator",
+            "href": "http: //sangmok.net"
+        },
+        {
+            "key": 8903455431,
+            "title": "Learn Smart",
+            "href": "https: //sangmok.net"
+        },
+        {
+            "key": 1588003999238,
+            "title": "",
+            "href": ""
+        }
+    ],
+    "self_introduce": [
+        {
+            "key": 431890412,
+            "value": "Self-motivated software engineer with 4+ years experiences specialized in Java web application for high- Self-motivated software engineer with 4+ years experiences specialized in Java web application for high- Self-motivated software engineer with 4+ years experiences specialized in Java web application for high- volume business such as ERP package, E-commerce package."
+        },
+        {
+            "key": 342890432,
+            "value": "I expect to not only learn but also deliver to the best of my capacity, finding effective solutions. And I am a solid communicator with verbal, writing and presentation skills attuned to project goals and stakeholder needs."
+        },
+        {
+            "key": 432890342,
+            "value": "As a team player, It will be happy to work with company has culture of openness with diversity. Finally, I am looking for long-term relationship based on interactive trust"
+        }
+    ],
+    "education": [
+        {
+            "key": 342904329,
+            "column1": "Gachon University",
+            "column2": "Bachelor of Public Administration",
+            "column3": "Mar 2007 - Feb 2015"
+        },
+        {
+            "key": 324879032,
+            "column1": "Cornerstone Academic College Toronto",
+            "column2": "Intensive ESL Program",
+            "column3": "Dec 2012 - Mar 2013"
+        },
+        {
+            "key": 730932335,
+            "column1": "Korea International Trade Association",
+            "column2": "Smart Cloud IT Master",
+            "column3": "Mar 2015 - Dec 2015"
+        }
+    ],
+    "cert_lang": [
+        {
+            "key": 3432943203,
+            "column1": "TOEIC SPEAKING Score 130/LV.6",
+            "column2": "YBM KOREA",
+            "column3": "2014"
+        },
+        {
+            "key": 803423943,
+            "column1": "Industrial Engineer Information Proecssing",
+            "column2": "HR Development Service of Korea",
+            "column3": "2015"
+        },
+        {
+            "key": 432780473,
+            "column1": "JLPT N2 Certificate",
+            "column2": "The Japan Foundation",
+            "column3": "Aug 2019"
+        },
+        {
+            "key": 724793842,
+            "column1": "TOEIC Score 830",
+            "column2": "IIBC Japan",
+            "column3": "Oct 2019"
+        },
+        {
+            "key": 324872032,
+            "column1": "Proficient English",
+            "column2": "-",
+            "column3": "-"
+        },
+        {
+            "key": 437890234,
+            "column1": "Business Japanese",
+            "column2": "-",
+            "column3": "-"
+        },
+        {
+            "key": 324890423,
+            "column1": "Native Korean",
+            "column2": "-",
+            "column3": "-"
+        },
+        {
+            "key": 4238039431,
+            "column1": "4th-degree black belt",
+            "column2": "World Taekwondo Headquarters",
+            "column3": "Jul 2001"
+        }
+    ],
+    "activity": [
+        {
+            "key": 124879032,
+            "column1": "Republic of Korea Army",
+            "column2": "Military Service",
+            "column3": "Feb 2008 - Jan 2010"
+        },
+        {
+            "key": 2931282392,
+            "column1": "Toronto Railway Historical Association (https: //www.trha.ca/)",
+            "column2": "Volunteer",
+            "column3": "Apr 2013 - Sep 2013"
+        },
+        {
+            "key": 9379834293,
+            "column1": "Taekwondo assistant instructor (http: //www.worldtaekwondo.ca/)",
+            "column2": "Volunteer",
+            "column3": "Arp 2013 - Jul 2013"
+        }
+    ],
+    "career_history": [
+        {
+            "key": 342904329,
+            "column1": "Freelancer",
+            "column2": "Software Enginner, Technical Support Engineer",
+            "column3": "Apr 2016 - Present"
+        }
+    ],
+    "experience": [
+        {
+            "key": 1111,
+            "period": "2019.07 - Present",
+            "title": "Integrated system development",
+            "detail": [
+                {
+                    "node": {
+                        "key": 11,
+                        "value": "Development Condition: Vue.js, Spring boot, Redis, MySQL, Docker"
+                    }
+                },
+                {
+                    "node": {
+                        "key": 22,
+                        "value": "Role: Front-End engineer, SE position"
+                    }
+                },
+                {
+                    "node": {
+                        "key": 33,
+                        "value": "Performed: Development team leader"
+                    },
+                    "nodes": [
+                        {
+                            "node": {
+                                "key": 5324,
+                                "value": "Application Architecture Diagram"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 111,
+                                        "value": "Client Side Rendering"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 222,
+                                        "value": "Microservice with Restful API"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 333,
+                                        "value": "Token based Authentication Process"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 444,
+                                        "value": "Http Request & Response Strategy"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 555,
+                                        "value": "Routing & Statement Strategy"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 666,
+                                        "value": "Caching data Strategy"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 777,
+                                        "value": "Exception Strategy"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 888,
+                                        "value": "CORS handling"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "key": 8485,
+                        "value": "Performed: Front-End"
+                    },
+                    "nodes": [
+                        {
+                            "node": {
+                                "key": 16643,
+                                "value": "Vue Component design"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 368643,
+                                        "value": "Layout: navbar, header, content, footer"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 6346234,
+                                        "value": "others: menutree, grid, form"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "node": {
+                                "key": 623,
+                                "value": "Core module development"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 623464,
+                                        "value": "Util classes(String, Date, Regex validation)"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 1724,
+                                        "value": "Automatic form generator with validator"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 734,
+                                        "value": "CSRF token authorization"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 136346,
+                                        "value": "Automatic vuex module importer"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 37773,
+                                        "value": "Query String validation"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "key": 475523,
+                        "value": "Reason of retirement : Project Finished"
+                    }
+                }
+            ]
+        },
+        {
+            "key": 222222,
+            "period": "2019.02 - 2019.06",
+            "title": "E-commerce Development & Technical Support",
+            "detail": [
+                {
+                    "node": {
+                        "key": 26300,
+                        "value": "Development Condition : Mayaa Servlet, Struts2(Java7), PostgreSQL"
+                    }
+                },
+                {
+                    "node": {
+                        "key": 54361,
+                        "value": "Role : SENIOR Technical Support Engineer, PL position"
+                    }
+                },
+                {
+                    "node": {
+                        "key": 53245342,
+                        "value": "Performed: Project leader role"
+                    },
+                    "nodes": [
+                        {
+                            "node": {
+                                "key": 543,
+                                "value": "Scheduling"
+                            }
+                        },
+                        {
+                            "node": {
+                                "key": 5234,
+                                "value": "Client meeting"
+                            }
+                        },
+                        {
+                            "node": {
+                                "key": 8905,
+                                "value": "Technical leading"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 89211,
+                                        "value": "analysis and presentation to client"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 9328,
+                                        "value": "solution suggest"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "node": {
+                                "key": 543289,
+                                "value": "Task priority define (merge/split) / assign"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "key": 453289,
+                        "value": "Performed: Process design"
+                    },
+                    "nodes": [
+                        {
+                            "node": {
+                                "key": 4325,
+                                "value": "AS-IS analysis"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 8411,
+                                        "value": "environment setting"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 543954,
+                                        "value": "documentation re-arrangement"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 4580543,
+                                        "value": "internal review"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "node": {
+                                "key": 5347894357,
+                                "value": "Workflow re-engineering"
+                            }
+                        },
+                        {
+                            "node": {
+                                "key": 43589,
+                                "value": "Documentation"
+                            }
+                        },
+                        {
+                            "node": {
+                                "key": 45389453,
+                                "value": "Internal take over"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "key": 43589,
+                        "value": "Performed: Operation"
+                    },
+                    "nodes": [
+                        {
+                            "node": {
+                                "key": 45343,
+                                "value": "Core issue handling (batch)"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 453809,
+                                        "value": "issue analysis"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 34589345,
+                                        "value": "trouble shooting"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 45389,
+                                        "value": "process re-engineering"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 45389,
+                                        "value": "documentation"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 453891,
+                                        "value": "take over (successor & client side)"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "node": {
+                                "key": 89241,
+                                "value": "Reference documentation"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 435798,
+                                        "value": "create environment setting manual"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 897543,
+                                        "value": "create release manual"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "node": {
+                                "key": 45389435,
+                                "value": "Improved monitoring system"
+                            },
+                            "nodes": [
+                                {
+                                    "node": {
+                                        "key": 48359,
+                                        "value": "monitoring workflow re-classification"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "key": 7914,
+                                        "value": "process automation"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "node": {
+                                                "key": 78942,
+                                                "value": "detection for inconsistent order data (900 minutes reduced per month)"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "key": 890111,
+                                                "value": "detection for inconsistent sales data side (180 minutes reduced per month)"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "node": {
+                        "key": 45398,
+                        "value": "Reason of retirement : Project Finished"
+                    }
+                }
+            ]
+        }
+    ]
+}
